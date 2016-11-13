@@ -103,7 +103,12 @@ following collections:
 --------------------------------------------------------------------------------------------------------------------
 2016
 
-around 250 of each type. problem is with the blank entries
-
+After removing entries with blank labels; we have following entries:
+total - 1186
+answer-answer 	254
+headlines 	249
+plagiarism 	230
+postediting 	244
+question-question 209
 
 
